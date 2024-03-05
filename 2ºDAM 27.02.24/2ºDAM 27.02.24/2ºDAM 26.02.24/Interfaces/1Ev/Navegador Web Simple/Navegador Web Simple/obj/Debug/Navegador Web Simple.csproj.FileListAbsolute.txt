@@ -1,0 +1,10 @@
+C:\Users\Cristina\source\repos\Navegador Web Simple\Navegador Web Simple\bin\Debug\Navegador Web Simple.exe.config
+C:\Users\Cristina\source\repos\Navegador Web Simple\Navegador Web Simple\bin\Debug\Navegador Web Simple.exe
+C:\Users\Cristina\source\repos\Navegador Web Simple\Navegador Web Simple\bin\Debug\Navegador Web Simple.pdb
+C:\Users\Cristina\source\repos\Navegador Web Simple\Navegador Web Simple\obj\Debug\Navegador Web Simple.csproj.AssemblyReference.cache
+C:\Users\Cristina\source\repos\Navegador Web Simple\Navegador Web Simple\obj\Debug\Navegador_Web_Simple.Form1.resources
+C:\Users\Cristina\source\repos\Navegador Web Simple\Navegador Web Simple\obj\Debug\Navegador_Web_Simple.Properties.Resources.resources
+C:\Users\Cristina\source\repos\Navegador Web Simple\Navegador Web Simple\obj\Debug\Navegador Web Simple.csproj.GenerateResource.cache
+C:\Users\Cristina\source\repos\Navegador Web Simple\Navegador Web Simple\obj\Debug\Navegador Web Simple.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\source\repos\Navegador Web Simple\Navegador Web Simple\obj\Debug\Navegador Web Simple.exe
+C:\Users\Cristina\source\repos\Navegador Web Simple\Navegador Web Simple\obj\Debug\Navegador Web Simple.pdb

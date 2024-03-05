@@ -1,0 +1,11 @@
+C:\Users\Cristina\source\repos\Tema4 3,4,5,6,7\bin\Debug\Tema4 3,4,5,6,7.exe.config
+C:\Users\Cristina\source\repos\Tema4 3,4,5,6,7\bin\Debug\Tema4 3,4,5,6,7.exe
+C:\Users\Cristina\source\repos\Tema4 3,4,5,6,7\bin\Debug\Tema4 3,4,5,6,7.pdb
+C:\Users\Cristina\source\repos\Tema4 3,4,5,6,7\obj\Debug\Tema4 3,4,5,6,7.csproj.AssemblyReference.cache
+C:\Users\Cristina\source\repos\Tema4 3,4,5,6,7\obj\Debug\Tema4_3_4_5_6_7.Form1.resources
+C:\Users\Cristina\source\repos\Tema4 3,4,5,6,7\obj\Debug\Tema4_3_4_5_6_7.Properties.Resources.resources
+C:\Users\Cristina\source\repos\Tema4 3,4,5,6,7\obj\Debug\Tema4 3,4,5,6,7.csproj.GenerateResource.cache
+C:\Users\Cristina\source\repos\Tema4 3,4,5,6,7\obj\Debug\Tema4 3,4,5,6,7.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\source\repos\Tema4 3,4,5,6,7\obj\Debug\Tema4 3,4,5,6,7.exe
+C:\Users\Cristina\source\repos\Tema4 3,4,5,6,7\obj\Debug\Tema4 3,4,5,6,7.pdb
+C:\Users\Cristina\source\repos\Tema4 3,4,5,6,7\obj\Debug\Tema4_3_4_5_6_7.Form2.resources

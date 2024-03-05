@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{BAA8E6F3-74CE-46BE-B76D-49074BFC135F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Empleado.cs" />
+      <File FileName="Directivo.cs" />
+      <File FileName="IPastaGansa.cs" />
+      <File FileName="EmpleadoEspecial.cs" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Persona.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ej1 POO" expanded="True">
+            <Node name="Ej1 POO" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Ej1_220POO PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

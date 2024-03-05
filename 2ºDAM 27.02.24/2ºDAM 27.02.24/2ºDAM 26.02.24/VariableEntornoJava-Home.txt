@@ -1,0 +1,32 @@
+vARIABLE DE ENTORNO JAVA-HOME:
+
+Editar variables de entorno del sistema, agregar JAVA-HOME
+Y ponerle la ruta:
+Por defecto se instala con el jdk en:
+
+C:\Program Files\Eclipse Adoptium\jdk-17.0.8.101-hotspot
+
+vARIABLE DE ENTORNO JAVA-HOME:
+
+Editar variables de entorno del sistema, agregar JAVA-HOME
+Y ponerle la ruta:
+Por defecto se instala con el jdk en:
+
+C:\Program Files\Eclipse Adoptium\jdk-17.0.8.101-hotspot
+
+vARIABLE DE ENTORNO JAVA-HOME:
+
+Editar variables de entorno del sistema, agregar JAVA-HOME
+Y ponerle la ruta:
+Por defecto se instala con el jdk en:
+
+C:\Program Files\Eclipse Adoptium\jdk-17.0.8.101-hotspot
+
+vARIABLE DE ENTORNO JAVA-HOME:
+
+Editar variables de entorno del sistema, agregar JAVA-HOME
+Y ponerle la ruta:
+Por defecto se instala con el jdk en:
+
+C:\Program Files\Eclipse Adoptium\jdk-17.0.8.101-hotspot
+

@@ -1,0 +1,10 @@
+C:\Users\Cristina\source\repos\Ej 4\bin\Debug\Ej 4.exe.config
+C:\Users\Cristina\source\repos\Ej 4\bin\Debug\Ej 4.exe
+C:\Users\Cristina\source\repos\Ej 4\bin\Debug\Ej 4.pdb
+C:\Users\Cristina\source\repos\Ej 4\obj\Debug\Ej 4.csproj.AssemblyReference.cache
+C:\Users\Cristina\source\repos\Ej 4\obj\Debug\Ej_4.Form1.resources
+C:\Users\Cristina\source\repos\Ej 4\obj\Debug\Ej_4.Properties.Resources.resources
+C:\Users\Cristina\source\repos\Ej 4\obj\Debug\Ej 4.csproj.GenerateResource.cache
+C:\Users\Cristina\source\repos\Ej 4\obj\Debug\Ej 4.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\source\repos\Ej 4\obj\Debug\Ej 4.exe
+C:\Users\Cristina\source\repos\Ej 4\obj\Debug\Ej 4.pdb

@@ -1,0 +1,14 @@
+C:\Users\Cristina\Downloads\servidorCris-20240131T080847Z-001\ClienteCris\bin\Debug\net6.0\ClienteCris.exe
+C:\Users\Cristina\Downloads\servidorCris-20240131T080847Z-001\ClienteCris\bin\Debug\net6.0\ClienteCris.deps.json
+C:\Users\Cristina\Downloads\servidorCris-20240131T080847Z-001\ClienteCris\bin\Debug\net6.0\ClienteCris.runtimeconfig.json
+C:\Users\Cristina\Downloads\servidorCris-20240131T080847Z-001\ClienteCris\bin\Debug\net6.0\ClienteCris.dll
+C:\Users\Cristina\Downloads\servidorCris-20240131T080847Z-001\ClienteCris\bin\Debug\net6.0\ClienteCris.pdb
+C:\Users\Cristina\Downloads\servidorCris-20240131T080847Z-001\ClienteCris\obj\Debug\net6.0\ClienteCris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristina\Downloads\servidorCris-20240131T080847Z-001\ClienteCris\obj\Debug\net6.0\ClienteCris.AssemblyInfoInputs.cache
+C:\Users\Cristina\Downloads\servidorCris-20240131T080847Z-001\ClienteCris\obj\Debug\net6.0\ClienteCris.AssemblyInfo.cs
+C:\Users\Cristina\Downloads\servidorCris-20240131T080847Z-001\ClienteCris\obj\Debug\net6.0\ClienteCris.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Downloads\servidorCris-20240131T080847Z-001\ClienteCris\obj\Debug\net6.0\ClienteCris.dll
+C:\Users\Cristina\Downloads\servidorCris-20240131T080847Z-001\ClienteCris\obj\Debug\net6.0\refint\ClienteCris.dll
+C:\Users\Cristina\Downloads\servidorCris-20240131T080847Z-001\ClienteCris\obj\Debug\net6.0\ClienteCris.pdb
+C:\Users\Cristina\Downloads\servidorCris-20240131T080847Z-001\ClienteCris\obj\Debug\net6.0\ClienteCris.genruntimeconfig.cache
+C:\Users\Cristina\Downloads\servidorCris-20240131T080847Z-001\ClienteCris\obj\Debug\net6.0\ref\ClienteCris.dll

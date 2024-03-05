@@ -1,0 +1,33 @@
+C:/Users/Cristina/source/repos/Ej1 POO/Ej1 POO/obj/Debug/net6.0/Ej1 POO.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Cristina/source/repos/Ej1 POO/Ej1 POO/obj/Debug/net6.0/Ej1 POO.AssemblyInfoInputs.cache
+C:/Users/Cristina/source/repos/Ej1 POO/Ej1 POO/obj/Debug/net6.0/Ej1 POO.AssemblyInfo.cs
+C:/Users/Cristina/source/repos/Ej1 POO/Ej1 POO/obj/Debug/net6.0/Ej1 POO.csproj.CoreCompileInputs.cache
+/Users/cris/Desktop/2ºDAM/IU/Ej1 POO/obj/Debug/net6.0/Ej1 POO.csproj.AssemblyReference.cache
+/Users/cris/Desktop/2ºDAM/IU/Ej1 POO/obj/Debug/net6.0/Ej1 POO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cris/Desktop/2ºDAM/IU/Ej1 POO/obj/Debug/net6.0/Ej1 POO.AssemblyInfoInputs.cache
+/Users/cris/Desktop/2ºDAM/IU/Ej1 POO/obj/Debug/net6.0/Ej1 POO.AssemblyInfo.cs
+/Users/cris/Desktop/2ºDAM/IU/Ej1 POO/obj/Debug/net6.0/Ej1 POO.csproj.CoreCompileInputs.cache
+/Users/cris/Desktop/2ºDAM/IU/Ej1 POO/bin/Debug/net6.0/Ej1 POO
+/Users/cris/Desktop/2ºDAM/IU/Ej1 POO/bin/Debug/net6.0/Ej1 POO.deps.json
+/Users/cris/Desktop/2ºDAM/IU/Ej1 POO/bin/Debug/net6.0/Ej1 POO.runtimeconfig.json
+/Users/cris/Desktop/2ºDAM/IU/Ej1 POO/bin/Debug/net6.0/Ej1 POO.dll
+/Users/cris/Desktop/2ºDAM/IU/Ej1 POO/bin/Debug/net6.0/Ej1 POO.pdb
+/Users/cris/Desktop/2ºDAM/IU/Ej1 POO/obj/Debug/net6.0/Ej1 POO.dll
+/Users/cris/Desktop/2ºDAM/IU/Ej1 POO/obj/Debug/net6.0/refint/Ej1 POO.dll
+/Users/cris/Desktop/2ºDAM/IU/Ej1 POO/obj/Debug/net6.0/Ej1 POO.pdb
+/Users/cris/Desktop/2ºDAM/IU/Ej1 POO/obj/Debug/net6.0/Ej1 POO.genruntimeconfig.cache
+/Users/cris/Desktop/2ºDAM/IU/Ej1 POO/obj/Debug/net6.0/ref/Ej1 POO.dll
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM_3_02_2024\Interfaces\1Ev\Tema 2\bin\Debug\net6.0\Ej1 POO.exe
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM_3_02_2024\Interfaces\1Ev\Tema 2\bin\Debug\net6.0\Ej1 POO.deps.json
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM_3_02_2024\Interfaces\1Ev\Tema 2\bin\Debug\net6.0\Ej1 POO.runtimeconfig.json
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM_3_02_2024\Interfaces\1Ev\Tema 2\bin\Debug\net6.0\Ej1 POO.dll
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM_3_02_2024\Interfaces\1Ev\Tema 2\bin\Debug\net6.0\Ej1 POO.pdb
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM_3_02_2024\Interfaces\1Ev\Tema 2\obj\Debug\net6.0\Ej1 POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM_3_02_2024\Interfaces\1Ev\Tema 2\obj\Debug\net6.0\Ej1 POO.AssemblyInfoInputs.cache
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM_3_02_2024\Interfaces\1Ev\Tema 2\obj\Debug\net6.0\Ej1 POO.AssemblyInfo.cs
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM_3_02_2024\Interfaces\1Ev\Tema 2\obj\Debug\net6.0\Ej1 POO.csproj.CoreCompileInputs.cache
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM_3_02_2024\Interfaces\1Ev\Tema 2\obj\Debug\net6.0\Ej1 POO.dll
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM_3_02_2024\Interfaces\1Ev\Tema 2\obj\Debug\net6.0\refint\Ej1 POO.dll
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM_3_02_2024\Interfaces\1Ev\Tema 2\obj\Debug\net6.0\Ej1 POO.pdb
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM_3_02_2024\Interfaces\1Ev\Tema 2\obj\Debug\net6.0\Ej1 POO.genruntimeconfig.cache
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM_3_02_2024\Interfaces\1Ev\Tema 2\obj\Debug\net6.0\ref\Ej1 POO.dll

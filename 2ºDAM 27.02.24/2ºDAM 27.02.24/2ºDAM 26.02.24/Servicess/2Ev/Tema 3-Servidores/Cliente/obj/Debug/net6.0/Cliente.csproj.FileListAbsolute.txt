@@ -1,0 +1,14 @@
+C:\Users\Cristina\Desktop\2ºDAM 25.02.24\2ºDAM 25.02.24\2ºDAM 23.02.24\Servicess\2Ev\Tema 3-Servidores\Cliente\bin\Debug\net6.0\Cliente.exe
+C:\Users\Cristina\Desktop\2ºDAM 25.02.24\2ºDAM 25.02.24\2ºDAM 23.02.24\Servicess\2Ev\Tema 3-Servidores\Cliente\bin\Debug\net6.0\Cliente.deps.json
+C:\Users\Cristina\Desktop\2ºDAM 25.02.24\2ºDAM 25.02.24\2ºDAM 23.02.24\Servicess\2Ev\Tema 3-Servidores\Cliente\bin\Debug\net6.0\Cliente.runtimeconfig.json
+C:\Users\Cristina\Desktop\2ºDAM 25.02.24\2ºDAM 25.02.24\2ºDAM 23.02.24\Servicess\2Ev\Tema 3-Servidores\Cliente\bin\Debug\net6.0\Cliente.dll
+C:\Users\Cristina\Desktop\2ºDAM 25.02.24\2ºDAM 25.02.24\2ºDAM 23.02.24\Servicess\2Ev\Tema 3-Servidores\Cliente\bin\Debug\net6.0\Cliente.pdb
+C:\Users\Cristina\Desktop\2ºDAM 25.02.24\2ºDAM 25.02.24\2ºDAM 23.02.24\Servicess\2Ev\Tema 3-Servidores\Cliente\obj\Debug\net6.0\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristina\Desktop\2ºDAM 25.02.24\2ºDAM 25.02.24\2ºDAM 23.02.24\Servicess\2Ev\Tema 3-Servidores\Cliente\obj\Debug\net6.0\Cliente.AssemblyInfoInputs.cache
+C:\Users\Cristina\Desktop\2ºDAM 25.02.24\2ºDAM 25.02.24\2ºDAM 23.02.24\Servicess\2Ev\Tema 3-Servidores\Cliente\obj\Debug\net6.0\Cliente.AssemblyInfo.cs
+C:\Users\Cristina\Desktop\2ºDAM 25.02.24\2ºDAM 25.02.24\2ºDAM 23.02.24\Servicess\2Ev\Tema 3-Servidores\Cliente\obj\Debug\net6.0\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Desktop\2ºDAM 25.02.24\2ºDAM 25.02.24\2ºDAM 23.02.24\Servicess\2Ev\Tema 3-Servidores\Cliente\obj\Debug\net6.0\Cliente.dll
+C:\Users\Cristina\Desktop\2ºDAM 25.02.24\2ºDAM 25.02.24\2ºDAM 23.02.24\Servicess\2Ev\Tema 3-Servidores\Cliente\obj\Debug\net6.0\refint\Cliente.dll
+C:\Users\Cristina\Desktop\2ºDAM 25.02.24\2ºDAM 25.02.24\2ºDAM 23.02.24\Servicess\2Ev\Tema 3-Servidores\Cliente\obj\Debug\net6.0\Cliente.pdb
+C:\Users\Cristina\Desktop\2ºDAM 25.02.24\2ºDAM 25.02.24\2ºDAM 23.02.24\Servicess\2Ev\Tema 3-Servidores\Cliente\obj\Debug\net6.0\Cliente.genruntimeconfig.cache
+C:\Users\Cristina\Desktop\2ºDAM 25.02.24\2ºDAM 25.02.24\2ºDAM 23.02.24\Servicess\2Ev\Tema 3-Servidores\Cliente\obj\Debug\net6.0\ref\Cliente.dll

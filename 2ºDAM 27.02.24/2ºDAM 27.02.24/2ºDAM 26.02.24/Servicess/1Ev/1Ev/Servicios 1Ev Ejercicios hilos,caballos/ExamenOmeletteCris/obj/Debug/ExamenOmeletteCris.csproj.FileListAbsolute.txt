@@ -1,0 +1,7 @@
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\ExamenOmeletteCris\bin\Debug\ExamenOmeletteCris.exe.config
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\ExamenOmeletteCris\bin\Debug\ExamenOmeletteCris.exe
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\ExamenOmeletteCris\bin\Debug\ExamenOmeletteCris.pdb
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\ExamenOmeletteCris\obj\Debug\ExamenOmeletteCris.csproj.AssemblyReference.cache
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\ExamenOmeletteCris\obj\Debug\ExamenOmeletteCris.csproj.CoreCompileInputs.cache
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\ExamenOmeletteCris\obj\Debug\ExamenOmeletteCris.exe
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\ExamenOmeletteCris\obj\Debug\ExamenOmeletteCris.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServidorCris", "ServidorCris.csproj", "{2CCE1E01-AAD8-42A1-85B4-49DBD0CD23AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente", "..\Cliente\Cliente.csproj", "{C7F8E4A5-F482-4B24-8FB6-3D734C59E108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteCris", "..\ClienteCris\ClienteCris.csproj", "{F5191866-7C83-4DE5-BDCA-7B6D57F3B29A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CCE1E01-AAD8-42A1-85B4-49DBD0CD23AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCE1E01-AAD8-42A1-85B4-49DBD0CD23AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCE1E01-AAD8-42A1-85B4-49DBD0CD23AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCE1E01-AAD8-42A1-85B4-49DBD0CD23AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7F8E4A5-F482-4B24-8FB6-3D734C59E108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7F8E4A5-F482-4B24-8FB6-3D734C59E108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7F8E4A5-F482-4B24-8FB6-3D734C59E108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7F8E4A5-F482-4B24-8FB6-3D734C59E108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5191866-7C83-4DE5-BDCA-7B6D57F3B29A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5191866-7C83-4DE5-BDCA-7B6D57F3B29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5191866-7C83-4DE5-BDCA-7B6D57F3B29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5191866-7C83-4DE5-BDCA-7B6D57F3B29A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E0323C5-38C8-4D33-BE4D-46DAE119E710}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,33 @@
+C:\Users\Cristina\Desktop\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\bin\Debug\ClienteModoGrafico.exe.config
+C:\Users\Cristina\Desktop\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\bin\Debug\ClienteModoGrafico.exe
+C:\Users\Cristina\Desktop\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\bin\Debug\ClienteModoGrafico.pdb
+C:\Users\Cristina\Desktop\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.csproj.AssemblyReference.cache
+C:\Users\Cristina\Desktop\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.Form1.resources
+C:\Users\Cristina\Desktop\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.FormPuertoIP.resources
+C:\Users\Cristina\Desktop\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.Properties.Resources.resources
+C:\Users\Cristina\Desktop\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.csproj.GenerateResource.cache
+C:\Users\Cristina\Desktop\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Desktop\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.exe
+C:\Users\Cristina\Desktop\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.pdb
+C:\Users\Cristina\OneDrive\Escritorio\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\bin\Debug\ClienteModoGrafico.exe.config
+C:\Users\Cristina\OneDrive\Escritorio\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\bin\Debug\ClienteModoGrafico.exe
+C:\Users\Cristina\OneDrive\Escritorio\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\bin\Debug\ClienteModoGrafico.pdb
+C:\Users\Cristina\OneDrive\Escritorio\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.csproj.AssemblyReference.cache
+C:\Users\Cristina\OneDrive\Escritorio\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.Form1.resources
+C:\Users\Cristina\OneDrive\Escritorio\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.FormPuertoIP.resources
+C:\Users\Cristina\OneDrive\Escritorio\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.Properties.Resources.resources
+C:\Users\Cristina\OneDrive\Escritorio\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.csproj.GenerateResource.cache
+C:\Users\Cristina\OneDrive\Escritorio\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\OneDrive\Escritorio\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.exe
+C:\Users\Cristina\OneDrive\Escritorio\2ºDAM_26_01_2024\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.pdb
+C:\Users\Cristina\Desktop\2ºDAM 20.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\bin\Debug\ClienteModoGrafico.exe.config
+C:\Users\Cristina\Desktop\2ºDAM 20.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\bin\Debug\ClienteModoGrafico.exe
+C:\Users\Cristina\Desktop\2ºDAM 20.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\bin\Debug\ClienteModoGrafico.pdb
+C:\Users\Cristina\Desktop\2ºDAM 20.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.csproj.AssemblyReference.cache
+C:\Users\Cristina\Desktop\2ºDAM 20.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.Form1.resources
+C:\Users\Cristina\Desktop\2ºDAM 20.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.FormPuertoIP.resources
+C:\Users\Cristina\Desktop\2ºDAM 20.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.Properties.Resources.resources
+C:\Users\Cristina\Desktop\2ºDAM 20.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.csproj.GenerateResource.cache
+C:\Users\Cristina\Desktop\2ºDAM 20.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Desktop\2ºDAM 20.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.exe
+C:\Users\Cristina\Desktop\2ºDAM 20.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 1\ClienteModoGrafico\obj\Debug\ClienteModoGrafico.pdb

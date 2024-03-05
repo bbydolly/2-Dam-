@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{691BB3DB-D99B-49DB-BBC1-81AB8DCA5ABF}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Ej1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ej4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ej4/Program.cs">
+    <Files>
+      <File FileName="Ej4/Program.cs" Line="10" Column="11" />
+      <File FileName="Ej2/Program.cs" />
+      <File FileName="Ej1/Program.cs" />
+      <File FileName="Ej5/Form1.cs" />
+      <File FileName="Ej5/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tema 1 Consola" expanded="True">
+            <Node name="Ej1" expanded="True" />
+            <Node name="Ej2" expanded="True" />
+            <Node name="Ej4" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Ej5" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

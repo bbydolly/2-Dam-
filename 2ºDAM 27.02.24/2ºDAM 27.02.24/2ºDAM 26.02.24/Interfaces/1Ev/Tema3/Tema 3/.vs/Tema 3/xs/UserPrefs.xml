@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{7F0B9EB2-CB90-4ED9-8E1E-C6BC9A74E5EE}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/cris/Desktop/2ºDAM/IU/Tema3/Tema 3/Ejercicio2/Aula.cs" relfile="Ejercicio2/Aula.cs" line="106" column="1" />
+      <Breakpoint file="/Users/cris/Desktop/2ºDAM/IU/Tema3/Tema 3/Ejercicio2/Aula.cs" relfile="Ejercicio2/Aula.cs" line="105" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Ejercicio1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ejercicio2/Menu.cs">
+    <Files>
+      <File FileName="Ejercicio2/Program.cs" Line="7" Column="16" />
+      <File FileName="Ejercicio2/Aula.cs" Line="9" Column="26" />
+      <File FileName="Ejercicio2/Menu.cs" Line="9" Column="4" />
+      <File FileName="Tema 3/Program.cs" Line="1" Column="1" />
+      <File FileName="Tema 3/Ej1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tema 3" expanded="True">
+            <Node name="Ejercicio2">
+              <Node name="Menu.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ejercicio2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,29 @@
+/Users/cris/Projects/Tema 1 Process/Ej 5/bin/Debug/net7.0/Ej 5
+/Users/cris/Projects/Tema 1 Process/Ej 5/bin/Debug/net7.0/Ej 5.deps.json
+/Users/cris/Projects/Tema 1 Process/Ej 5/bin/Debug/net7.0/Ej 5.runtimeconfig.json
+/Users/cris/Projects/Tema 1 Process/Ej 5/bin/Debug/net7.0/Ej 5.dll
+/Users/cris/Projects/Tema 1 Process/Ej 5/bin/Debug/net7.0/Ej 5.pdb
+/Users/cris/Projects/Tema 1 Process/Ej 5/obj/Debug/net7.0/Ej 5.csproj.AssemblyReference.cache
+/Users/cris/Projects/Tema 1 Process/Ej 5/obj/Debug/net7.0/Ej 5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cris/Projects/Tema 1 Process/Ej 5/obj/Debug/net7.0/Ej 5.AssemblyInfoInputs.cache
+/Users/cris/Projects/Tema 1 Process/Ej 5/obj/Debug/net7.0/Ej 5.AssemblyInfo.cs
+/Users/cris/Projects/Tema 1 Process/Ej 5/obj/Debug/net7.0/Ej 5.csproj.CoreCompileInputs.cache
+/Users/cris/Projects/Tema 1 Process/Ej 5/obj/Debug/net7.0/Ej 5.dll
+/Users/cris/Projects/Tema 1 Process/Ej 5/obj/Debug/net7.0/refint/Ej 5.dll
+/Users/cris/Projects/Tema 1 Process/Ej 5/obj/Debug/net7.0/Ej 5.pdb
+/Users/cris/Projects/Tema 1 Process/Ej 5/obj/Debug/net7.0/Ej 5.genruntimeconfig.cache
+/Users/cris/Projects/Tema 1 Process/Ej 5/obj/Debug/net7.0/ref/Ej 5.dll
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\Ej 5\bin\Debug\net7.0\Ej 5.exe
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\Ej 5\bin\Debug\net7.0\Ej 5.deps.json
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\Ej 5\bin\Debug\net7.0\Ej 5.runtimeconfig.json
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\Ej 5\bin\Debug\net7.0\Ej 5.dll
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\Ej 5\bin\Debug\net7.0\Ej 5.pdb
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\Ej 5\obj\Debug\net7.0\Ej 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\Ej 5\obj\Debug\net7.0\Ej 5.AssemblyInfoInputs.cache
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\Ej 5\obj\Debug\net7.0\Ej 5.AssemblyInfo.cs
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\Ej 5\obj\Debug\net7.0\Ej 5.csproj.CoreCompileInputs.cache
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\Ej 5\obj\Debug\net7.0\Ej 5.dll
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\Ej 5\obj\Debug\net7.0\refint\Ej 5.dll
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\Ej 5\obj\Debug\net7.0\Ej 5.pdb
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\Ej 5\obj\Debug\net7.0\Ej 5.genruntimeconfig.cache
+C:\Users\mcris\OneDrive\Escritorio\wetransfer_ej-2_2023-12-17_1239\Ej 5\obj\Debug\net7.0\ref\Ej 5.dll

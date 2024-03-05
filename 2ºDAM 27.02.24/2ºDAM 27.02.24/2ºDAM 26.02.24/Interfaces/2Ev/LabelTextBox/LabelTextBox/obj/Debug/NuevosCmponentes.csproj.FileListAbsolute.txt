@@ -1,0 +1,8 @@
+C:\Users\Cristina\source\repos\LabelTextBox\LabelTextBox\bin\Debug\LabelTextBox.dll
+C:\Users\Cristina\source\repos\LabelTextBox\LabelTextBox\bin\Debug\LabelTextBox.pdb
+C:\Users\Cristina\source\repos\LabelTextBox\LabelTextBox\obj\Debug\NuevosCmponentes.csproj.AssemblyReference.cache
+C:\Users\Cristina\source\repos\LabelTextBox\LabelTextBox\obj\Debug\LabelTextBox.LabelTextBox.resources
+C:\Users\Cristina\source\repos\LabelTextBox\LabelTextBox\obj\Debug\NuevosCmponentes.csproj.GenerateResource.cache
+C:\Users\Cristina\source\repos\LabelTextBox\LabelTextBox\obj\Debug\NuevosCmponentes.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\source\repos\LabelTextBox\LabelTextBox\obj\Debug\LabelTextBox.dll
+C:\Users\Cristina\source\repos\LabelTextBox\LabelTextBox\obj\Debug\LabelTextBox.pdb

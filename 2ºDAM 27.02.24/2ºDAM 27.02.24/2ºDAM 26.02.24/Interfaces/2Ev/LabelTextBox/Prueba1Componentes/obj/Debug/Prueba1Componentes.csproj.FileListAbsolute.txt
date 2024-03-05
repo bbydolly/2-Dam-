@@ -1,0 +1,13 @@
+C:\Users\Cristina\source\repos\LabelTextBox\Prueba1Componentes\bin\Debug\Prueba1Componentes.exe.config
+C:\Users\Cristina\source\repos\LabelTextBox\Prueba1Componentes\bin\Debug\Prueba1Componentes.exe
+C:\Users\Cristina\source\repos\LabelTextBox\Prueba1Componentes\bin\Debug\Prueba1Componentes.pdb
+C:\Users\Cristina\source\repos\LabelTextBox\Prueba1Componentes\bin\Debug\LabelTextBox.dll
+C:\Users\Cristina\source\repos\LabelTextBox\Prueba1Componentes\bin\Debug\LabelTextBox.pdb
+C:\Users\Cristina\source\repos\LabelTextBox\Prueba1Componentes\obj\Debug\Prueba1Componentes.csproj.AssemblyReference.cache
+C:\Users\Cristina\source\repos\LabelTextBox\Prueba1Componentes\obj\Debug\Prueba1Componentes.Form1.resources
+C:\Users\Cristina\source\repos\LabelTextBox\Prueba1Componentes\obj\Debug\Prueba1Componentes.Properties.Resources.resources
+C:\Users\Cristina\source\repos\LabelTextBox\Prueba1Componentes\obj\Debug\Prueba1Componentes.csproj.GenerateResource.cache
+C:\Users\Cristina\source\repos\LabelTextBox\Prueba1Componentes\obj\Debug\Prueba1Componentes.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\source\repos\LabelTextBox\Prueba1Componentes\obj\Debug\Prueba1Componentes.csproj.CopyComplete
+C:\Users\Cristina\source\repos\LabelTextBox\Prueba1Componentes\obj\Debug\Prueba1Componentes.exe
+C:\Users\Cristina\source\repos\LabelTextBox\Prueba1Componentes\obj\Debug\Prueba1Componentes.pdb

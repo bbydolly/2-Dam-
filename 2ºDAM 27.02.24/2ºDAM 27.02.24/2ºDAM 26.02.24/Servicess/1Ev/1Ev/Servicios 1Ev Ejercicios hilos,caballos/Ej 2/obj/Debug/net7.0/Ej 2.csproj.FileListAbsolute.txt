@@ -1,0 +1,15 @@
+/Users/cris/Projects/Tema 1 Process/Ej 2/bin/Debug/net7.0/Ej 2
+/Users/cris/Projects/Tema 1 Process/Ej 2/bin/Debug/net7.0/Ej 2.deps.json
+/Users/cris/Projects/Tema 1 Process/Ej 2/bin/Debug/net7.0/Ej 2.runtimeconfig.json
+/Users/cris/Projects/Tema 1 Process/Ej 2/bin/Debug/net7.0/Ej 2.dll
+/Users/cris/Projects/Tema 1 Process/Ej 2/bin/Debug/net7.0/Ej 2.pdb
+/Users/cris/Projects/Tema 1 Process/Ej 2/obj/Debug/net7.0/Ej 2.csproj.AssemblyReference.cache
+/Users/cris/Projects/Tema 1 Process/Ej 2/obj/Debug/net7.0/Ej 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cris/Projects/Tema 1 Process/Ej 2/obj/Debug/net7.0/Ej 2.AssemblyInfoInputs.cache
+/Users/cris/Projects/Tema 1 Process/Ej 2/obj/Debug/net7.0/Ej 2.AssemblyInfo.cs
+/Users/cris/Projects/Tema 1 Process/Ej 2/obj/Debug/net7.0/Ej 2.csproj.CoreCompileInputs.cache
+/Users/cris/Projects/Tema 1 Process/Ej 2/obj/Debug/net7.0/Ej 2.dll
+/Users/cris/Projects/Tema 1 Process/Ej 2/obj/Debug/net7.0/refint/Ej 2.dll
+/Users/cris/Projects/Tema 1 Process/Ej 2/obj/Debug/net7.0/Ej 2.pdb
+/Users/cris/Projects/Tema 1 Process/Ej 2/obj/Debug/net7.0/Ej 2.genruntimeconfig.cache
+/Users/cris/Projects/Tema 1 Process/Ej 2/obj/Debug/net7.0/ref/Ej 2.dll

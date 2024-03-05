@@ -1,0 +1,14 @@
+C:\Users\Oreon\Desktop\clase\servicios\EjerciciosArchivos\ejer3\bin\Debug\net6.0\ejer3.exe
+C:\Users\Oreon\Desktop\clase\servicios\EjerciciosArchivos\ejer3\bin\Debug\net6.0\ejer3.deps.json
+C:\Users\Oreon\Desktop\clase\servicios\EjerciciosArchivos\ejer3\bin\Debug\net6.0\ejer3.runtimeconfig.json
+C:\Users\Oreon\Desktop\clase\servicios\EjerciciosArchivos\ejer3\bin\Debug\net6.0\ejer3.dll
+C:\Users\Oreon\Desktop\clase\servicios\EjerciciosArchivos\ejer3\bin\Debug\net6.0\ejer3.pdb
+C:\Users\Oreon\Desktop\clase\servicios\EjerciciosArchivos\ejer3\obj\Debug\net6.0\ejer3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oreon\Desktop\clase\servicios\EjerciciosArchivos\ejer3\obj\Debug\net6.0\ejer3.AssemblyInfoInputs.cache
+C:\Users\Oreon\Desktop\clase\servicios\EjerciciosArchivos\ejer3\obj\Debug\net6.0\ejer3.AssemblyInfo.cs
+C:\Users\Oreon\Desktop\clase\servicios\EjerciciosArchivos\ejer3\obj\Debug\net6.0\ejer3.csproj.CoreCompileInputs.cache
+C:\Users\Oreon\Desktop\clase\servicios\EjerciciosArchivos\ejer3\obj\Debug\net6.0\ejer3.dll
+C:\Users\Oreon\Desktop\clase\servicios\EjerciciosArchivos\ejer3\obj\Debug\net6.0\refint\ejer3.dll
+C:\Users\Oreon\Desktop\clase\servicios\EjerciciosArchivos\ejer3\obj\Debug\net6.0\ejer3.pdb
+C:\Users\Oreon\Desktop\clase\servicios\EjerciciosArchivos\ejer3\obj\Debug\net6.0\ejer3.genruntimeconfig.cache
+C:\Users\Oreon\Desktop\clase\servicios\EjerciciosArchivos\ejer3\obj\Debug\net6.0\ref\ejer3.dll

@@ -1,0 +1,10 @@
+C:\Users\Cristina\source\repos\Ej5\bin\Debug\Ej5.exe.config
+C:\Users\Cristina\source\repos\Ej5\bin\Debug\Ej5.exe
+C:\Users\Cristina\source\repos\Ej5\bin\Debug\Ej5.pdb
+C:\Users\Cristina\source\repos\Ej5\obj\Debug\Ej5.csproj.AssemblyReference.cache
+C:\Users\Cristina\source\repos\Ej5\obj\Debug\Ej5.Form1.resources
+C:\Users\Cristina\source\repos\Ej5\obj\Debug\Ej5.Properties.Resources.resources
+C:\Users\Cristina\source\repos\Ej5\obj\Debug\Ej5.csproj.GenerateResource.cache
+C:\Users\Cristina\source\repos\Ej5\obj\Debug\Ej5.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\source\repos\Ej5\obj\Debug\Ej5.exe
+C:\Users\Cristina\source\repos\Ej5\obj\Debug\Ej5.pdb

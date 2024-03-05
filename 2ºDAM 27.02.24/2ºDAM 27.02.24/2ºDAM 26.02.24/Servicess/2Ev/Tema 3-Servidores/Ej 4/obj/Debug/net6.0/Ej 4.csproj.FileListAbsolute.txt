@@ -1,0 +1,28 @@
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM 3.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\bin\Debug\net6.0\Ej 4.exe
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM 3.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\bin\Debug\net6.0\Ej 4.deps.json
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM 3.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\bin\Debug\net6.0\Ej 4.runtimeconfig.json
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM 3.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\bin\Debug\net6.0\Ej 4.dll
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM 3.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\bin\Debug\net6.0\Ej 4.pdb
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM 3.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\obj\Debug\net6.0\Ej 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM 3.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\obj\Debug\net6.0\Ej 4.AssemblyInfoInputs.cache
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM 3.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\obj\Debug\net6.0\Ej 4.AssemblyInfo.cs
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM 3.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\obj\Debug\net6.0\Ej 4.csproj.CoreCompileInputs.cache
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM 3.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\obj\Debug\net6.0\Ej 4.dll
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM 3.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\obj\Debug\net6.0\refint\Ej 4.dll
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM 3.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\obj\Debug\net6.0\Ej 4.pdb
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM 3.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\obj\Debug\net6.0\Ej 4.genruntimeconfig.cache
+C:\Users\mcris\OneDrive\Escritorio\2ºDAM 3.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\obj\Debug\net6.0\ref\Ej 4.dll
+C:\Users\Cristina\Downloads\2ºDAM 26.02.24\2ºDAM 26.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\bin\Debug\net6.0\Ej 4.exe
+C:\Users\Cristina\Downloads\2ºDAM 26.02.24\2ºDAM 26.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\bin\Debug\net6.0\Ej 4.deps.json
+C:\Users\Cristina\Downloads\2ºDAM 26.02.24\2ºDAM 26.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\bin\Debug\net6.0\Ej 4.runtimeconfig.json
+C:\Users\Cristina\Downloads\2ºDAM 26.02.24\2ºDAM 26.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\bin\Debug\net6.0\Ej 4.dll
+C:\Users\Cristina\Downloads\2ºDAM 26.02.24\2ºDAM 26.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\bin\Debug\net6.0\Ej 4.pdb
+C:\Users\Cristina\Downloads\2ºDAM 26.02.24\2ºDAM 26.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\obj\Debug\net6.0\Ej 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristina\Downloads\2ºDAM 26.02.24\2ºDAM 26.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\obj\Debug\net6.0\Ej 4.AssemblyInfoInputs.cache
+C:\Users\Cristina\Downloads\2ºDAM 26.02.24\2ºDAM 26.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\obj\Debug\net6.0\Ej 4.AssemblyInfo.cs
+C:\Users\Cristina\Downloads\2ºDAM 26.02.24\2ºDAM 26.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\obj\Debug\net6.0\Ej 4.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Downloads\2ºDAM 26.02.24\2ºDAM 26.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\obj\Debug\net6.0\Ej 4.dll
+C:\Users\Cristina\Downloads\2ºDAM 26.02.24\2ºDAM 26.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\obj\Debug\net6.0\refint\Ej 4.dll
+C:\Users\Cristina\Downloads\2ºDAM 26.02.24\2ºDAM 26.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\obj\Debug\net6.0\Ej 4.pdb
+C:\Users\Cristina\Downloads\2ºDAM 26.02.24\2ºDAM 26.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\obj\Debug\net6.0\Ej 4.genruntimeconfig.cache
+C:\Users\Cristina\Downloads\2ºDAM 26.02.24\2ºDAM 26.02.24\Servicess\2Ev\Tema 3-Servidores\Ej 4\obj\Debug\net6.0\ref\Ej 4.dll

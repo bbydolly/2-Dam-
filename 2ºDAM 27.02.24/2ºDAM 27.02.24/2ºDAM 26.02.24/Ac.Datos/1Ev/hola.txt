@@ -1,0 +1,10 @@
+Hola, que tal estás?
+En cualquier problemática que queramos resolver siempre hay diferentes soluciones, y cada una de las opciones puede ser correcta dependiendo del contexto. Este contexto es lo que nos ayudará a determinar cual es preferible utilizar y cuales evitar.
+Hola
+El almacenamiento de pares clave/valor es una tarea común en programación. Quizás tu conocimiento parcial puede llevarte a elegir una estructura de datos que ofrezca el mejor rendimiento en términos de complejidad temporal, pero eso es solo una parte de la ecuación. ¿Necesitamos mantener nuestros datos ordenados? ¿La colección crecerá y disminuirá constantemente? ¿Qué pasa con los valores únicos o las claves duplicadas? En la medida de lo posible, intentaremos pensar en cómo van a interactuar los datos que almacenaremos y vamos a elegir la estructura de datos que mejor se adapte a nuestras necesidades.
+Hola
+Vamos a analizar tres estructuras java de almacenamiento clave/valor para demostrar las diferencias a las respuestas de las preguntas del párrafo anterior: HashMap, Linked HashMap y TreeMap.
+
+Hola
+Holahola
+Hola

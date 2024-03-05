@@ -1,0 +1,15 @@
+/Users/cris/Desktop/2ºDAM/IU/Tema3/Tema 3/Tema 3/bin/Debug/net7.0/Ejercicio1
+/Users/cris/Desktop/2ºDAM/IU/Tema3/Tema 3/Tema 3/bin/Debug/net7.0/Ejercicio1.deps.json
+/Users/cris/Desktop/2ºDAM/IU/Tema3/Tema 3/Tema 3/bin/Debug/net7.0/Ejercicio1.runtimeconfig.json
+/Users/cris/Desktop/2ºDAM/IU/Tema3/Tema 3/Tema 3/bin/Debug/net7.0/Ejercicio1.dll
+/Users/cris/Desktop/2ºDAM/IU/Tema3/Tema 3/Tema 3/bin/Debug/net7.0/Ejercicio1.pdb
+/Users/cris/Desktop/2ºDAM/IU/Tema3/Tema 3/Tema 3/obj/Debug/net7.0/Ejercicio1.csproj.AssemblyReference.cache
+/Users/cris/Desktop/2ºDAM/IU/Tema3/Tema 3/Tema 3/obj/Debug/net7.0/Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cris/Desktop/2ºDAM/IU/Tema3/Tema 3/Tema 3/obj/Debug/net7.0/Ejercicio1.AssemblyInfoInputs.cache
+/Users/cris/Desktop/2ºDAM/IU/Tema3/Tema 3/Tema 3/obj/Debug/net7.0/Ejercicio1.AssemblyInfo.cs
+/Users/cris/Desktop/2ºDAM/IU/Tema3/Tema 3/Tema 3/obj/Debug/net7.0/Ejercicio1.csproj.CoreCompileInputs.cache
+/Users/cris/Desktop/2ºDAM/IU/Tema3/Tema 3/Tema 3/obj/Debug/net7.0/Ejercicio1.dll
+/Users/cris/Desktop/2ºDAM/IU/Tema3/Tema 3/Tema 3/obj/Debug/net7.0/refint/Ejercicio1.dll
+/Users/cris/Desktop/2ºDAM/IU/Tema3/Tema 3/Tema 3/obj/Debug/net7.0/Ejercicio1.pdb
+/Users/cris/Desktop/2ºDAM/IU/Tema3/Tema 3/Tema 3/obj/Debug/net7.0/Ejercicio1.genruntimeconfig.cache
+/Users/cris/Desktop/2ºDAM/IU/Tema3/Tema 3/Tema 3/obj/Debug/net7.0/ref/Ejercicio1.dll

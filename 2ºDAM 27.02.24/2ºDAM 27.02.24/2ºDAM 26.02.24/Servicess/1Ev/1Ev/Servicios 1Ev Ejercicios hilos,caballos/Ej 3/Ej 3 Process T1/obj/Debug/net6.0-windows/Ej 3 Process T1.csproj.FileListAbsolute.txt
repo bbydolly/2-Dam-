@@ -1,0 +1,16 @@
+C:\Users\Cristina\source\repos\Ej 3 Process T1\Ej 3 Process T1\bin\Debug\net6.0-windows\Ej 3 Process T1.exe
+C:\Users\Cristina\source\repos\Ej 3 Process T1\Ej 3 Process T1\bin\Debug\net6.0-windows\Ej 3 Process T1.deps.json
+C:\Users\Cristina\source\repos\Ej 3 Process T1\Ej 3 Process T1\bin\Debug\net6.0-windows\Ej 3 Process T1.runtimeconfig.json
+C:\Users\Cristina\source\repos\Ej 3 Process T1\Ej 3 Process T1\bin\Debug\net6.0-windows\Ej 3 Process T1.dll
+C:\Users\Cristina\source\repos\Ej 3 Process T1\Ej 3 Process T1\bin\Debug\net6.0-windows\Ej 3 Process T1.pdb
+C:\Users\Cristina\source\repos\Ej 3 Process T1\Ej 3 Process T1\obj\Debug\net6.0-windows\Ej_3_Process_T1.Form1.resources
+C:\Users\Cristina\source\repos\Ej 3 Process T1\Ej 3 Process T1\obj\Debug\net6.0-windows\Ej 3 Process T1.csproj.GenerateResource.cache
+C:\Users\Cristina\source\repos\Ej 3 Process T1\Ej 3 Process T1\obj\Debug\net6.0-windows\Ej 3 Process T1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristina\source\repos\Ej 3 Process T1\Ej 3 Process T1\obj\Debug\net6.0-windows\Ej 3 Process T1.AssemblyInfoInputs.cache
+C:\Users\Cristina\source\repos\Ej 3 Process T1\Ej 3 Process T1\obj\Debug\net6.0-windows\Ej 3 Process T1.AssemblyInfo.cs
+C:\Users\Cristina\source\repos\Ej 3 Process T1\Ej 3 Process T1\obj\Debug\net6.0-windows\Ej 3 Process T1.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\source\repos\Ej 3 Process T1\Ej 3 Process T1\obj\Debug\net6.0-windows\Ej 3 Process T1.dll
+C:\Users\Cristina\source\repos\Ej 3 Process T1\Ej 3 Process T1\obj\Debug\net6.0-windows\refint\Ej 3 Process T1.dll
+C:\Users\Cristina\source\repos\Ej 3 Process T1\Ej 3 Process T1\obj\Debug\net6.0-windows\Ej 3 Process T1.pdb
+C:\Users\Cristina\source\repos\Ej 3 Process T1\Ej 3 Process T1\obj\Debug\net6.0-windows\Ej 3 Process T1.genruntimeconfig.cache
+C:\Users\Cristina\source\repos\Ej 3 Process T1\Ej 3 Process T1\obj\Debug\net6.0-windows\ref\Ej 3 Process T1.dll

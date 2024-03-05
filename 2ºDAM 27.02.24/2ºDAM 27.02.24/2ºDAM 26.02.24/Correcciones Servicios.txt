@@ -1,0 +1,47 @@
+Servicios: Hacer correcciones
+1:
+--- titulo, icono
+--- nombres del boton y label3
+--- mensajes de error (directorio no existe)
+--- Crash al acceder a directorios sin permiso
+- Si accedo a \  luego hago click en cualquier directorio crashea
+--- Falla al poner % o %%
+--- Falla con variables de entorno que no son directorios.Por ejmeplo %OS%
+--- Falla con variables de entorno que no existen
+--- Falla al darle a .. desde el raiz
+--- Prefunta por guardar cambios en txt aunque no se haya cambiado nada.
+--- Al guardar los cambios duplica el contenido del arhchivo
+- Hay archivos que no dice el tamaño en KB MB etc...---------------------------------->Cómo hago las conversiones?
+
+
+limpiaR ERRORES 
+-error concatenando
+-Crash al acceder a directorios sin permiso
+-Falla al poner % o %%
+-Pone .. al cliackar en zona vacia (izq)
+-Pinchar en zona vacia de lista  (der)
+- Formato en kb,mb..
+
+
+4:Validado 
+TODO:: CONTROL DE EXCEPCIONES
+---- El principal no hace lo que se pide (de hecho falla al ejecutar al usar un directorio tuyo personal)
+---- IsBmp no haces control de excepciones del archivo (permisos, corrupto,et..)
+
+Networking:
+1:  Servidor
+---- Bucle infinito si puerto ocupado: catch (SocketException e)when (e.ErrorCode==(int)SocketError.AddressAlreadyInUse)
+- Si se mete un comando correcto, no finaliza la conexión.
+- No informa de contraseña invalida o no existente.
+- No debes usar excepción genérica
+- En vez de contains deberías usar startswith con el close
+- No se cierra el servidor con close y la comprobación de contraseña es un poco rara.
+
+Cliente:
+- Icono y título
+- Si te intentas conectar a un endpoint donde no hay servidor el clietne falla
+- Por usabilidad, al abrir el secundario debería aparecer la ip y puerto actuales.
+- Aunque cambie la configuración, sigue intentando conectarse a ip y puerto por defecto
+- La función buttonclick no debería tener tanto if, puedes meter en el Tag el comando y usar el sender (con la excepción del botón close)
+
+El 2 lo podemos ver cualquier día en clase, pues prefiero que lo pruebes tu primero.
